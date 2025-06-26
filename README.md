@@ -1,50 +1,51 @@
-👋 Hi, I'm Raiz Hekimov (@Hekimovraiz)
-Aspiring Backend Developer Lezgin  | Passionate about building robust server-side solutions
-
-👀 Interests
-Backend Development: APIs, Databases
-
-System Design: Scalable architecture patterns
-
-Performance Optimization: Efficient algorithms & resource management
-
-DevOps: CI/CD pipelines & cloud deployment
-
-🌱 Currently Learning
-C++: Mastering OOP concepts and memory management
-
-Java: Spring Boot framework & enterprise development
-
-Database Systems: PostgreSQL optimization techniques
-
-Cloud Technologies: AWS fundamentals
-
-💞️ Collaboration Opportunities
-I'd love to collaborate on:
-
-Open source backend projects
-
-REST/GraphQL API development
-
-Database-driven applications
-
-Developer tooling projects
-
-📫 Reach Me
-Telegram: @Lezgin_R (Fastest response)
-
-Email: hekimovraiz2010@gmail.com
-
-😄 Pronouns
-He/Him
-
-⚡ Fun Facts
-Built my first server at 14 using an old laptop
-
-Can recite 15+ sorting algorithms by heart
-
-Love solving coding puzzles while drinking Lezgi tea 🍵
-
-My debugging playlist has 200+ instrumental tracks
+<h1 align="center">Hi 👋, I'm Raiz Hekimov</h1>
+<h3 align="center">🚀, Lezgi Aspiring Olympiad Programmer</h3>
 
 
+- 🧠 I solve algorithmic problems using **Python, C++, C, and C#**
+- 🎯 Focused on math, logic, brute-force, greedy, and data structures
+- 🏫 Preparing for Informatics Olympiads 
+- 🧩 Strong in Problem Solving, not interested in backend development
+- 🐧 Linux Mint enthusiast who enjoys fast debugging and clean code
+
+---
+
+### 🌐 Connect with me:
+
+<p align="left">
+  <a href="https://t.me/Lezgin_R" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:raizhekimov2010@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/hek1mov_038r" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+### ⚙️ Languages & Tools I Use:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+</p>
+
+---
+
+### 💻 My Tools & Setup:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlechrome/googlechrome-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gnubash/gnubash-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+⭐ **Me :** I debug problems better while sipping Lezgi tea and listening to deep-focus music 🎧
