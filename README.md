@@ -5,7 +5,7 @@
 - 🧠 I solve algorithmic problems using **Python, C++, C, and C#**
 - 🎯 Focused on math, logic, brute-force, greedy, and data structures
 - 🏫 Preparing for Informatics Olympiads 
-- 🧩 Strong in Problem Solving, not interested in backend development
+- 🧩 Strong in Problem Solving
 - 🐧 Linux Mint enthusiast who enjoys fast debugging and clean code
 
 ---
